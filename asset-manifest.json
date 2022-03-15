@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-online-store/static/css/main.d58915b4.chunk.css",
+    "main.js": "/project-online-store/static/js/main.178f3361.chunk.js",
+    "main.js.map": "/project-online-store/static/js/main.178f3361.chunk.js.map",
+    "runtime-main.js": "/project-online-store/static/js/runtime-main.1dc74610.js",
+    "runtime-main.js.map": "/project-online-store/static/js/runtime-main.1dc74610.js.map",
+    "static/js/2.7e1c9b54.chunk.js": "/project-online-store/static/js/2.7e1c9b54.chunk.js",
+    "static/js/2.7e1c9b54.chunk.js.map": "/project-online-store/static/js/2.7e1c9b54.chunk.js.map",
+    "index.html": "/project-online-store/index.html",
+    "precache-manifest.5f6ec5db9826f57274d4e4ac2968f12f.js": "/project-online-store/precache-manifest.5f6ec5db9826f57274d4e4ac2968f12f.js",
+    "service-worker.js": "/project-online-store/service-worker.js",
+    "static/css/main.d58915b4.chunk.css.map": "/project-online-store/static/css/main.d58915b4.chunk.css.map",
+    "static/js/2.7e1c9b54.chunk.js.LICENSE.txt": "/project-online-store/static/js/2.7e1c9b54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc74610.js",
+    "static/js/2.7e1c9b54.chunk.js",
+    "static/css/main.d58915b4.chunk.css",
+    "static/js/main.178f3361.chunk.js"
+  ]
+}
